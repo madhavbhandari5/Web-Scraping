@@ -76,27 +76,3 @@ for row in rows:
 
 print('Thank you...')
 file.close()
-
-        
-            
-            
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-    #print(sn +' ' + moviename+ ' '+cast)
-    #print(lead_role[1:])
-    #writer.writerow([username,uploads,views])
-#file.close()
